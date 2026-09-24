@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Book-A-Hand",
+    "slug": "book-a-hand",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#5B5FEF"
+    },
+    "android": {
+      "package": "com.bookahand.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bookahand.app"
+    }
+  }
+}
