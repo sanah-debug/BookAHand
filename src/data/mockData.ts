@@ -12,7 +12,9 @@ export const categories: CategoryType[] = [
   { id: '9', name: 'Mechanic', emoji: '🔩', color: '#E5E7EB' },
   { id: '10', name: 'Tutor', emoji: '📚', color: '#F0FDF4' },
   { id: '11', name: 'AC Repair', emoji: '❄️', color: '#CFFAFE' },
-  { id: '12', name: 'More', emoji: '➕', color: '#F3F4F6' },
+    { id: '12', name: 'AC Repair', emoji: '❄️', color: '#CFFAFE' },
+  { id: '13', name: 'More', emoji: '➕', color: '#F3F4F6' },
+
 ];
 
 export const providers: ProviderType[] = [
